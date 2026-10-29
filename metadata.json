@@ -1,0 +1,6 @@
+{
+  "name": "SafeBangla",
+  "description": "Smart Disaster & Emergency Response System for Bangladesh featuring One-Tap SOS, Offline SMS Fallback, Shelters, Hospitals, and Volunteer Rescue Coordination.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

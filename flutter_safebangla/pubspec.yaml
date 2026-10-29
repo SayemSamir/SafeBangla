@@ -1,0 +1,28 @@
+name: safebangla_emergency
+description: "SafeBangla - Smart Disaster & Emergency Response System for Bangladesh"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  flutter_tts: ^3.8.5
+  url_launcher: ^6.3.0
+  geolocator: ^12.0.0
+  flutter_staggered_animations: ^1.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
