@@ -2,9 +2,6 @@ import { TeamMember, AcademicProjectInfo, ProjectJourneyStage } from '../types/t
 
 /**
  * INITIAL VERIFIED FIVE-MEMBER TEAM PROFILES
- * Per prompt instructions:
- * Do not invent job titles, responsibilities, biographies, technical skills, academic IDs or contributions.
- * For fields not yet supplied, display "To be updated" or omit them.
  */
 export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
   {
@@ -20,7 +17,7 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     },
     githubUrl: 'https://github.com/SayemSamir',
     linkedinUrl: 'https://www.linkedin.com/in/gazi-sayem-uddin-samir',
-    photoUrl: 'src/components/team/sayem.jpeg',
+    photoUrl: 'https://i.postimg.cc/3NpsGbKb/sayem.jpg',
     isPublic: true,
     displayOrder: 1
   },
@@ -37,7 +34,7 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     },
     githubUrl: 'https://github.com/antunia98',
     linkedinUrl: 'https://www.linkedin.com/in/antunia-das-7335812b8',
-    photoUrl: 'src/components/team/antunia.jpeg',
+    photoUrl: 'https://i.postimg.cc/rpBg4yKT/antunia.jpg',
     isPublic: true,
     displayOrder: 2
   },
@@ -54,7 +51,7 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     },
     githubUrl: 'https://github.com/Ovin88',
     linkedinUrl: 'https://www.linkedin.com/in/ovin-paul-2405b0440',
-    photoUrl: 'src/components/team/ovin.jpeg',
+    photoUrl: 'https://i.postimg.cc/x8RPBKgG/ovin.jpg',
     isPublic: true,
     displayOrder: 3
   },
@@ -71,7 +68,7 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     },
     githubUrl: '',
     linkedinUrl: '',
-    photoUrl: 'src/components/team/nabil.jpeg',
+    photoUrl: 'https://i.postimg.cc/4dRbd8Sg/nabil.jpg',
     isPublic: true,
     displayOrder: 4
   },
@@ -88,7 +85,7 @@ export const INITIAL_TEAM_MEMBERS: TeamMember[] = [
     },
     githubUrl: '',
     linkedinUrl: '',
-    photoUrl: 'src/components/team/sadman.jpeg',
+    photoUrl: 'https://i.postimg.cc/kMcFJvF2/sadman.jpg',
     isPublic: true,
     displayOrder: 5
   }
