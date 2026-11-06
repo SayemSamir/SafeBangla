@@ -12,8 +12,8 @@ An intelligent, multi-agency disaster coordination MIS uniting citizens, registe
 - **Course:** Software Development Project -1
 - **Course Supervisor:** Ferdous Ara
 - **Team Identifier:** Team-01
-- **GitHub Repository:** [https://github.com/SayemSamir/ResQ-Bangladesh](https://github.com/SayemSamir/ResQ-Bangladesh)
-
+- **GitHub Repository:** [https://github.com/SayemSamir/ResQ-Bangladesh](https://github.com/SayemSamir/SafeBangla)
+- **Live Demo:** [SafeBangla Live](https://resq-bangladesh-smart-disaster-emergency-response.ai.studio/)
 ---
 
 ## Team Members (Five Minds. One Mission.)
