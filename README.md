@@ -68,8 +68,8 @@ An intelligent, multi-agency disaster coordination MIS uniting citizens, registe
 
 ```bash
 # Clone the repository
-git clone https://github.com/SayemSamir/ResQ-Bangladesh.git
-cd ResQ-Bangladesh
+git clone https://github.com/SayemSamir/SafeBangla.git
+cd SafeBangla
 
 # Install dependencies
 npm install
