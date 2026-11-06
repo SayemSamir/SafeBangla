@@ -1,0 +1,10 @@
+{
+  "name": "RESQ Bangladesh - Smart Disaster & Emergency Response System",
+  "description": "AI-Powered Smart Disaster & Emergency Response Management System for Bangladesh. Connecting citizens, rescue teams, volunteers, hospitals, and emergency operators during cyclones, floods, fires, and crises.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
