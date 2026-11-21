@@ -13,7 +13,8 @@ An intelligent, multi-agency disaster coordination MIS uniting citizens, registe
 - **Course Supervisor:** Ferdous Ara
 - **Team Identifier:** Team-01
 - **GitHub Repository:** [https://github.com/SayemSamir/SafeBangla](https://github.com/SayemSamir/SafeBangla)
-
+- **Live Demo:** [Live Project](https://safebangla.netlify.app/)
+https://safebangla.netlify.app/
 ---
 
 ## Team Members (Five Minds. One Mission.)
